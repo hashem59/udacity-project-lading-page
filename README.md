@@ -2,7 +2,8 @@
 
 ## Table of Contents
 
-* [what is project about](#what-is-project-about)
+* [What is project about](#what-is-project-about)
+* [View Project](#view-project)
 
 ## What is project about
 
@@ -13,3 +14,6 @@ We use JavaScrip to
 2. Scroll to section on link click
 3. Detetmine which the 'active' Section onscroll and highlight it 
 
+### View Project
+
+https://hashem59.github.io/udacity-project-lading-page/
